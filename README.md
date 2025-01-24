@@ -19,9 +19,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 O objetivo deste projeto é:
 
-1. **Apresentar meu trabalho**: Mostrar minhas habilidades em desenvolvimento Front-end e Back-end, com foco em tecnologias como React, HTML e CSS.
+1. **Apresentar meu trabalho**: Mostrar minhas habilidades em desenvolvimento Front-end e Back-end, com foco em tecnologias como, HTML e CSS.
 2. **Compartilhar minha trajetória**: Contar um pouco sobre minha experiência profissional, formação e objetivos.
-3. **Conectar com o público**: Disponibilizar links para minhas redes sociais e plataformas profissionais, como GitHub, LinkedIn e Twitch.
+3. **Conectar com o público**: Disponibilizar links para minhas redes sociais e plataformas profissionais, como GitHub, LinkedIn.
 4. **Demonstrar responsividade**: Garantir que o site funcione bem em qualquer dispositivo, desde celulares até desktops.
 
 ---
@@ -60,7 +60,7 @@ O objetivo deste projeto é:
         ├── assets/               # Pasta de imagens e ícones
         │   ├── github.png
         │   ├── linkedin.png
-        │   ├── twitch.png
+        │   ├── imagem.png
         │   └── imagem.png        # Sua foto de perfil
         ├── styles/               # Pasta de estilos CSS
         │   └── style.css         # Arquivo principal de estilos
